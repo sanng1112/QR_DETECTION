@@ -28,7 +28,7 @@ sudo apt-get install libzbar0
 
 Để chạy lệnh mặc định không bị lỗi đường dẫn, hãy đảm bảo thư mục dự án của bạn có cấu trúc cơ bản như sau:
 ```text
-QR_Project/
+QR_Project/  
 │
 ├── main.py                 # File script chính
 ├── environment.yml         # File cấu hình môi trường Conda
